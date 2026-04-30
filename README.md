@@ -101,5 +101,5 @@ displayInfo<T>  — template utility for labelled output
 
 ## Author
 
-**Sneha Kumari** — Roll No. 241024  
-IIT Kanpur · CS253 · 2026
+**Sneha** 
+IIT Kanpur 
