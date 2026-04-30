@@ -1,0 +1,25 @@
+# Compiled binaries
+analyzer
+analyzer.exe
+*.out
+*.o
+
+# Build artifacts
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dataset files (large — add your own locally)
+*.txt
+*.log
+
+# Submission zip
+*.zip
