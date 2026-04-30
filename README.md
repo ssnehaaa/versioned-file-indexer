@@ -2,7 +2,7 @@
 
 A C++ command-line tool that builds a **word-level frequency index** over large text files using a **fixed-size buffer**, so memory usage stays independent of file size.
 
-Built as part of **CS253 Assignment 1**.
+Built as part of **CS253 Assignment **.
 
 ---
 
